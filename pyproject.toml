@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agora-enhance-agent-representation-broker-with"
+version = "0.1.0"
+description = "Enhance Agent Representation Broker with Dynamic Learning Capabilities"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+
+]
+
+[tool.setuptools]
+py-modules = ["main"]
