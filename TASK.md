@@ -11,6 +11,8 @@ Build an advanced Agent Representation Broker by combining artifact_a and artifa
 ## Relevant Existing Artifacts (import/extend if useful)
 
 ## Relevant existing artifacts (check before building):
+  - **enhance-agent-representation-broker-with** (similarity 65%)
+    Dynamic agent-task matching with adaptive learning.
   - **build-an-agent-representation-broker-to-match-agen** [has tests] (similarity 63%)
     The Agent Representation Broker is a service that matches agents with tasks based on their capabilities and requirements. It provides a centralized pl
   - **agent_representation_broker** (similarity 62%)
@@ -18,8 +20,6 @@ Build an advanced Agent Representation Broker by combining artifact_a and artifa
   - **improve-build-an-agent-representation-broker-to-match-agen** [has tests] (similarity 58%)
     This repository contains an improved version of the test script for the Agent Representation Broker. The test script is now more robust to port confli
   - **bug-build-an-agent-representation-broker** (similarity 57%)
-  - **improve-build-an-agent-representation-br** [has tests] (similarity 54%)
-    This repository contains an improved test script for the Agent Representation Broker that handles port conflicts automatically, ensuring reliable test
 
 ## Related completed tasks:
   - Improve: Build an Agent Representation Broker to  — Make test script more robust to port con

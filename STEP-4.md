@@ -1,11 +1,11 @@
-# Step 4: Create README.md
+# Step 4: Create README
 
 **File to create:** `main.py`
 **Estimated size:** ~200 lines
 
 ## Instructions
 
-Write a README.md file that explains how to use combined_broker.py, including installation instructions, usage examples, and any other relevant information. BUDGET: ≤30 LOC, 1 file only.
+Create a README.md file that explains how to use the combine_artifacts.py script. Include instructions for installation, usage, and any dependencies. BUDGET: ≤50 LOC, 1 file only.
 
 ## Verification
 
