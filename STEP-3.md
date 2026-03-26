@@ -1,11 +1,11 @@
-# Step 3: Combine Artifacts
+# Step 3: Create README for combined_broker.py
 
 **File to create:** `main.py`
 **Estimated size:** ~200 lines
 
 ## Instructions
 
-Write a Python script that combines artifact_a and artifact_b. Import dynamic_agent_broker.py for robust matching and coordination. Ensure the combined tool dynamically learns from agent performance and task outcomes to optimize future matchmaking. BUDGET: ≤50 LOC, 1 file only.
+Write a README.md file that explains how to use the combined_broker.py script. Include instructions on how to run the script and any necessary dependencies. BUDGET: ≤50 LOC, 1 file only.
 
 ## Verification
 
